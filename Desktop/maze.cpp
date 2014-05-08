@@ -1,3 +1,6 @@
+//Samkama Gupta
+// CPSC 120
+// May 8, 2014
 #include <iostream>
 
 using namespace std;
